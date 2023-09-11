@@ -155,7 +155,7 @@ img.nav__close{
 /*======Show Menu/Icons=======*/
 .show-menu{
     opacity: 1;
-    top: 3.5rem;
+    top: 4.5rem;
     pointer-events: initial;
 }
 .show-icon img.nav__burguer{
