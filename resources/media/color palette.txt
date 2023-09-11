@@ -1,0 +1,4 @@
+#202221  black
+#e8b2c7  pink
+#fefefe  white
+#73686c  grey
