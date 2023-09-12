@@ -404,10 +404,9 @@ div.group__logo a img{
 
 /*========Error 404========*/
 
-body.error404{
-    background-image: url(../../resources/media/notpage/Sin\ título-1.png);
-    background-repeat: no-repeat;
-    background-size: cover;
+body.error404 img{
+    width: 100%;
+    height: auto;
 }
 
 
