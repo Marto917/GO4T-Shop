@@ -401,6 +401,19 @@ div.group__logo a img{
     font-family: 'kanit-extralightitalic';
 }
 
+@media screen and (max-width:720px) {
+    .footer{
+        width: 100%;
+        margin: auto;
+        display: block;
+        padding: 15px 0px;
+    }
+    .group__info, .group__logo, .group__social{
+        margin-top: 40px;
+        
+        text-align: center;
+    }
+}
 
 /*========Error 404========*/
 
